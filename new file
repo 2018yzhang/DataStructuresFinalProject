@@ -1,0 +1,17 @@
+//        public void mouseDragged(MouseEvent e){
+//          int dx = 0;
+//          int dy = 0;
+//          
+//          dx = (int) (point.x - e.getPoint().getX());
+//          dy = (int) (point.y - e.getPoint().getY());
+//               
+//          if (dragging) {
+//            point = e.getPoint();
+//            repaint();
+//          }
+//          System.out.println(point.toString());
+//        }
+//        @Override
+//        public void mouseReleased(MouseEvent e){
+//          repaint();
+//        }
